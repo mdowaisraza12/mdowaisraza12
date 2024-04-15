@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Owais Raza</h1>
 <h3 align="center">A Frontend Developer</h3>
 
-![gif](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdowaisraza12&label=Profile%20views&color=0e75b6&style=flat" alt="mdowaisraza12" /> </p>
 
