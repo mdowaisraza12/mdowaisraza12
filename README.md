@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Owais Raza</h1>
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img alt="Coder GIF" height=600 width=1000 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdowaisraza12&label=Profile%20views&color=0e75b6&style=flat" alt="mdowaisraza12" /> </p>
 
