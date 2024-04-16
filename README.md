@@ -13,7 +13,7 @@
 
 -  All of my projects are available at **Portfolio is currently in progress**
 
--  Ask me about **Any thing related to fronend, CSS, JS, GSAP , LOCOMOTIVE**
+-  Ask me about **Any thing related to frontend basic Structure, CSS, JS, GSAP , LOCOMOTIVE**
 
 -  You can reach me through my email **owaisraza212223@gmail.com**
 
