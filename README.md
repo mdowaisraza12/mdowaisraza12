@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Muhammad Owais Raza</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdowaisraza12&label=Profile%20views&color=0e75b6&style=flat" alt="mdowaisraza12" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio Website**
+-  I’m currently working on **My Portfolio Website**
 
-- 🌱 I’m currently learning at **Aptech Learning Centre 💻**
+-  I’m currently learning at **Aptech Learning Centre 💻**
 
-- 👯 I’m looking to collaborate on **Frontend Based Websites**
+-  I’m looking to collaborate on **Frontend Based Websites**
 
-- 👨‍💻 All of my projects are available at [Error 404](Error 404)
+-  All of my projects are available at **Portfolio is currently in progress**
 
-- 💬 Ask me about **JS , GSAP , LOCOMOTIVE**
+-  Ask me about **Any thing related to fronend, CSS, JS, GSAP , LOCOMOTIVE**
 
-- 📫 How to reach me **owaisraza212223@gmail.com**
+-  You can reach me through my email **owaisraza212223@gmail.com**
 
-- ⚡ Fun fact **When I am Bore I do coding 🤣**
+-  Fun fact about me is **"When I am Bore I code and explore new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
